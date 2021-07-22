@@ -29,7 +29,7 @@
 
 ## :clipboard: Dependencies
 ```bash
-git clone https://github.com/sahilkhose/StackGAN-BERT.git
+git clone https://github.com/abhirajtiwari/StackGAN-BERT.git
 pip3 install -r requirements.txt
 ```
 
